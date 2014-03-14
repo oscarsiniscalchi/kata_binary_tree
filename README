@@ -1,0 +1,10 @@
+== BinaryTree
+
+Just a simple code kata to keep mind agile. Still not 100% pleased with the result looking for ways of improving the find and add methods to avoid the nasty nested if statemets.
+
+Please comment if you have any suggestion.
+
+
+=== TODO
+
+Add a delete method,
